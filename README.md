@@ -1,7 +1,6 @@
 # ChristmasTree Snowflake
 
 ![acsii animation](/assets/gif/demo.gif "ChristmasTree Snowflake")
-**Note** : Cann't KeyboardInterrupt with ctrl-c
 
 ### Install
 ```console
@@ -13,3 +12,5 @@ $ cd ChristmasTree-Snowflake
 ```console
 $ python /path/to/ChristmasTree-Snowflake/main.py
 ```
+
+**Note** : Cann't KeyboardInterrupt with ctrl-c
